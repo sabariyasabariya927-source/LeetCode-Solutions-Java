@@ -11,4 +11,12 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
