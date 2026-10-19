@@ -15,6 +15,7 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
