@@ -44,6 +44,7 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3456-find-special-substring-of-length-k](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/3456-find-special-substring-of-length-k) |
 ## Sliding Window
 |  |
 | ------- |
