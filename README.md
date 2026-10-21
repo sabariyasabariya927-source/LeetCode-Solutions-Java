@@ -40,4 +40,12 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
