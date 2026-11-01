@@ -15,6 +15,7 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
@@ -33,6 +34,7 @@ My Java solutions for LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ My Java solutions for LeetCode problems
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0148-sort-list) |
 ## String
 |  |
@@ -51,4 +54,12 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
