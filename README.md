@@ -62,4 +62,16 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
