@@ -7,6 +7,7 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,28 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
