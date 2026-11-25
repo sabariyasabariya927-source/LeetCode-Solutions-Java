@@ -78,6 +78,7 @@ My Java solutions for LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 ## Enumeration
