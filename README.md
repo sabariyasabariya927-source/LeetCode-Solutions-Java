@@ -27,6 +27,7 @@ My Java solutions for LeetCode problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My Java solutions for LeetCode problems
 | [0007-reverse-integer](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -101,4 +103,12 @@ My Java solutions for LeetCode problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sabariyasabariya927-source/LeetCode-Solutions-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
